@@ -1,2 +1,2 @@
 # python_programs
-This repo contains all the basic python programs
+This repository contains all the basic python programs.
